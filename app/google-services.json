@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875273397187",
+    "firebase_url": "https://googlmapschacker.firebaseio.com",
+    "project_id": "googlmapschacker",
+    "storage_bucket": "googlmapschacker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875273397187:android:a83efe16ef42fd3ec35376",
+        "android_client_info": {
+          "package_name": "com.example.googlmapschacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875273397187-cu6bec9g1ovsu37o8cv7tji7cdfuk35i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVoNQvDwJbz3eA1WRGH7n0pFN_oFStY-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875273397187-cu6bec9g1ovsu37o8cv7tji7cdfuk35i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

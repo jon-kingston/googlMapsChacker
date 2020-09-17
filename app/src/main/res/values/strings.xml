@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">gogolMapsChecker</string>
+    <string name="facebook_app_id">341806843854572</string>
+    <string name="fb_login_protocol_scheme">fb341806843854572</string>
+
+</resources>
